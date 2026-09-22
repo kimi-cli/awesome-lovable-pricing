@@ -56,3 +56,5 @@ A curated list of pages worth reading before you commit to a plan. Lovable prici
 ## Contributing
 
 Open a pull request with a link and a one-line reason; links to pages that state a number or a rule are preferred over opinion pieces.
+
+_Last reviewed: 2026-09-22_
