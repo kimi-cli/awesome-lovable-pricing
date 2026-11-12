@@ -31,6 +31,7 @@ A curated list of pages worth reading before you commit to a plan. Lovable prici
 - [Videos and courses](https://docs.lovable.dev/introduction/video-tutorials) - video walkthroughs from the docs.
 - [Lovable blog](https://lovable.dev/blog) - product announcements, including plan changes.
 - [Changelog](https://docs.lovable.dev/changelog) - dated changes; check here when credit rules move.
+- [Lovable Run credits: what burns them and how to find it](https://madsalt.tech/blog/lovable-run-credits/) - Why an idle app can use more Run credits than a busy one, and the SQL and code searches that find the job or loop behind the bill.
 
 ## Tools and integrations
 
